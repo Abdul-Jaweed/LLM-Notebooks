@@ -1,0 +1,16 @@
+ipykernel
+notebook
+python-dotenv
+langchain-ollama
+langchain
+langchain-core
+langchain-community
+langgraph
+langgraph-cli
+requests
+pypdf
+langchain-mongodb
+pymongo
+scikit-learn
+tqdm
+langchain-openai

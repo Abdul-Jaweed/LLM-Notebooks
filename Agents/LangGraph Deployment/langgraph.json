@@ -1,0 +1,11 @@
+{
+    "dockerfile_lines":[],
+    "graphs": {
+      "agent": "./agents.py:reactGraph"
+    },
+    "env":"K:\\Zero2LLMOps\\RAGProject\\.env",
+    "python_version":"3.11",
+    "dependencies": [
+      "."
+    ]
+}
